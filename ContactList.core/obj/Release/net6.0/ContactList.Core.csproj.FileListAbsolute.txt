@@ -1,0 +1,14 @@
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\bin\Release\net6.0\ContactList.Core.deps.json
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\bin\Release\net6.0\ContactList.Core.runtimeconfig.json
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\bin\Release\net6.0\ContactList.Core.dll
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\bin\Release\net6.0\ContactList.Core.pdb
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.csproj.AssemblyReference.cache
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.AssemblyInfoInputs.cache
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.AssemblyInfo.cs
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.csproj.CoreCompileInputs.cache
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.dll
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\refint\ContactList.Core.dll
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.pdb
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ContactList.Core.genruntimeconfig.cache
+D:\my projects\CRUDOPERATIONAPI-Angular-\SuperVillainApi\ContactList.core\obj\Release\net6.0\ref\ContactList.Core.dll

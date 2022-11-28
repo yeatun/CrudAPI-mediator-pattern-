@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nWS8FSnBaeD8WEVeWlAhDC3vBOPAFNh8B4PKGl1MnH8=",
+  "Source": "ContactList.Api",
+  "BasePath": "_content/ContactList.Api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
